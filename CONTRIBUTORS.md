@@ -126,6 +126,7 @@
 - [Prajjwal Yadav](https://github.com/prajjyadav)
 - [Prashant Sharma](https://github.com/Prashantique)
 - [Prateek kocher](https://github.com/prateekk2001)
+- [Parth Rewoo](https://github.com/Parth1906)
 - [Rachael Neff](https://github.com/raneff)
 - [Rachit Garg](https://github.com/rstar900)
 - [Ramy Fetteha](https://github.com/NoirFLamme)
